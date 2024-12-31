@@ -35,7 +35,7 @@ make
 ./server-test
 ```
 
-## project structure
+## Project structure
 ```
 .
 ├── server.c          # server implementation
@@ -45,7 +45,7 @@ make
     └── Makefile
 ```
 
-## requirements
+## Requirements
 - linux
 - gcc
 - make
